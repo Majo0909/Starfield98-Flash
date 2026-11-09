@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Starfield Simulation — Windows 98</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    html, body { width:100%; height:100%; margin:0; overflow:hidden; background:#000; }
+    body { font-family: "MS Sans Serif", Tahoma, sans-serif; cursor:none; }
+    canvas { display:block; width:100%; height:100%; background:#000; }
+    #hud { position:fixed; left:18px; bottom:16px; color:#7f8894; font:12px/1.4 "MS Sans Serif", Tahoma, sans-serif; opacity:0; transition:opacity .25s; user-select:none; text-shadow:0 1px 2px #000; }
+    body.show-ui #hud { opacity:.9; }
+    #hud b { color:#c6cbd1; font-weight:normal; }
+    #panel { position:fixed; right:18px; bottom:16px; width:240px; padding:10px; display:none; color:#111; background:#c0c0c0; border:2px solid; border-color:#fff #404040 #404040 #fff; box-shadow:2px 2px #000; font:12px Tahoma, sans-serif; cursor:default; }
+    #panel.open { display:block; }
+    .title { color:#fff; background:#000080; padding:3px 5px; margin:-6px -6px 8px; font-weight:bold; }
+    label { display:flex; justify-content:space-between; align-items:center; margin:7px 0; }
+    input[type=range] { width:130px; accent-color:#000080; }
+    button { font:12px Tahoma,sans-serif; padding:3px 12px; background:#c0c0c0; border:2px solid; border-color:#fff #404040 #404040 #fff; }
+    button:active { border-color:#404040 #fff #fff #404040; }
+    .hint { color:#404040; margin-top:8px; font-size:11px; }
+  </style>
+</head>
+<body>
+  <canvas id="space" aria-label="Starfield Simulation"></canvas>
+  <div id="hud"><b>STARFIELD SIMULATION</b> &nbsp; <span id="fps">60 FPS</span> &nbsp; • &nbsp; <span id="status">RUNNING</span></div>
+  <div id="panel">
+    <div class="title">Starfield Simulation</div>
+    <label>Rýchlosť <input id="speed" type="range" min="1" max="15" value="7"></label>
+    <label>Hustota <input id="density" type="range" min="150" max="1400" value="700"></label>
+    <label>Rozmazanie <input id="trail" type="range" min="0" max="100" value="72"></label>
+    <button id="reset">Obnoviť</button> <button id="close">Zavrieť</button>
+    <div class="hint">F11 — celá obrazovka · Esc — ukončiť · P — pauza · S — nastavenia</div>
+  </div>
+<script>
+(() => {
+  'use strict';
+  const canvas = document.getElementById('space');
+  const ctx = canvas.getContext('2d', { alpha:false });
+  const speedInput = document.getElementById('speed');
+  const densityInput = document.getElementById('density');
+  const trailInput = document.getElementById('trail');
+  const panel = document.getElementById('panel');
+  const status = document.getElementById('status');
+  const fpsEl = document.getElementById('fps');
+  let W=0,H=0,cx=0,cy=0, focal=500, stars=[], running=true, last=performance.now(), frames=0, fpsTime=last;
+  let pointerX=0, pointerY=0, targetX=0, targetY=0;
+
+  function resize() {
+    const dpr = Math.min(devicePixelRatio || 1, 2);
+    W = innerWidth; H = innerHeight; canvas.width = Math.floor(W*dpr); canvas.height = Math.floor(H*dpr);
+    canvas.style.width=W+'px'; canvas.style.height=H+'px'; ctx.setTransform(dpr,0,0,dpr,0,0);
+    cx=W/2; cy=H/2; focal=Math.min(W,H)*.72; resetStars();
+  }
+  function newStar(initial=true) {
+    const spread=Math.max(W,H)*1.25;
+    return { x:(Math.random()-.5)*spread, y:(Math.random()-.5)*spread, z: initial ? Math.random()*focal+.5 : focal*1.4, pz:focal*1.4 };
+  }
+  function resetStars() { stars=Array.from({length:+densityInput.value},()=>newStar(true)); }
+  function drawStar(s,dt) {
+    const old=s.pz; s.pz=s.z; s.z-=+speedInput.value*dt*0.055*focal;
+    if(s.z<1) Object.assign(s,newStar(false));
+    const px=cx+(s.x/s.z)*focal + pointerX*.045;
+    const py=cy+(s.y/s.z)*focal + pointerY*.045;
+    const opx=cx+(s.x/old)*focal + pointerX*.045;
+    const opy=cy+(s.y/old)*focal + pointerY*.045;
+    const size=Math.max(.55,Math.min(3.4,(1-s.z/focal)*3.2));
+    if(px<-20||px>W+20||py<-20||py>H+20) return;
+    const depth=Math.max(0,Math.min(1,1-s.z/focal));
+    const alpha=.18+depth*.82;
+    const warm=Math.random()<.075;
+    ctx.strokeStyle=warm?`rgba(255,226,178,${alpha})`:`rgba(226,236,255,${alpha})`;
+    ctx.lineWidth=size;
+    ctx.beginPath(); ctx.moveTo(opx,opy); ctx.lineTo(px,py); ctx.stroke();
+  }
+  function frame(now) {
+    const dt=Math.min(40,now-last); last=now;
+    if(running) {
+      const blur=+trailInput.value/100;
+      ctx.fillStyle=`rgba(0,0,${Math.round(blur*15)},${.11+(1-blur)*.22})`;
+      ctx.fillRect(0,0,W,H);
+      pointerX += (targetX-pointerX)*.04; pointerY += (targetY-pointerY)*.04;
+      const desired=+densityInput.value; if(stars.length!==desired) { while(stars.length<desired) stars.push(newStar(true)); stars.length=desired; }
+      for(const s of stars) drawStar(s,dt);
+    }
+    frames++; if(now-fpsTime>1000) { fpsEl.textContent=frames+' FPS'; frames=0; fpsTime=now; }
+    requestAnimationFrame(frame);
+  }
+  function togglePause() { running=!running; status.textContent=running?'RUNNING':'PAUSED'; }
+  addEventListener('resize',resize);
+  addEventListener('mousemove',e=>{ targetX=e.clientX-W/2; targetY=e.clientY-H/2; document.body.classList.add('show-ui'); clearTimeout(window.uiTimer); window.uiTimer=setTimeout(()=>document.body.classList.remove('show-ui'),1800); });
+  addEventListener('keydown',e=>{
+    if(e.key==='p'||e.key==='P') togglePause();
+    if(e.key==='s'||e.key==='S') panel.classList.toggle('open');
+    if(e.key==='Escape') { panel.classList.remove('open'); document.body.classList.remove('show-ui'); }
+    if(e.key==='F11') { e.preventDefault(); document.documentElement.requestFullscreen?.(); }
+  });
+  document.getElementById('reset').onclick=()=>{ speedInput.value=7; densityInput.value=700; trailInput.value=72; resetStars(); };
+  document.getElementById('close').onclick=()=>panel.classList.remove('open');
+  densityInput.oninput=resetStars;
+  resize(); ctx.fillStyle='#000'; ctx.fillRect(0,0,W,H); requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

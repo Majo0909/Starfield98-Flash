@@ -1,0 +1,9 @@
+{
+  "samples": 48000,
+  "emptyRoutes": 110,
+  "occupiedRoutes": 890,
+  "giantFraction": 0.06541666666666666,
+  "radiusMin": 0.12000549363903701,
+  "radiusMedian": 1.6164659640099854,
+  "radiusMax": 99.98210391029716
+}

@@ -1,0 +1,10 @@
+test-cloud-variety.cjs rc 1 | stdout lines before fail: 1
+   OK: PASS random spatial distribution, gaps, independent slots, broad rare-giant sizes
+   ERR: AssertionError [ERR_ASSERTION]: finite atlas with five morphologies and palette variants
+test-nebula.cjs rc 1 | stdout lines before fail: 1
+   OK: PASS surrounding 3D distribution, random depths, bounded seamless recycling
+   ERR: AssertionError [ERR_ASSERTION]: retain dominant single-hue clouds
+test-controls.cjs rc 1 | stdout lines before fail: 1
+   OK: PASS speed maximum 200
+   ERR: AssertionError [ERR_ASSERTION]: new stars must fade in
+{"test-cloud-variety.cjs": {"passes_before_fail": 1, "first_err": "AssertionError [ERR_ASSERTION]: finite atlas with five morphologies and palette variants"}, "test-nebula.cjs": {"passes_before_fail": 1, "first_err": "AssertionError [ERR_ASSERTION]: retain dominant single-hue clouds"}, "test-controls.cjs": {"passes_before_fail": 1, "first_err": "AssertionError [ERR_ASSERTION]: new stars must fade in"}}

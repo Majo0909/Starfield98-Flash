@@ -1,0 +1,5972 @@
+{
+  "controls-verification.json": {
+    "lowDensityLitPixels": 270,
+    "maxDensityLitPixels": 50656,
+    "ratio": 187.61481481481482,
+    "state": {
+      "settings": {
+        "mode": "classic",
+        "speed": 1,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": true,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 4.368299999999997,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.0002790000000000001,
+        "immersion": 0,
+        "nearest": 2.999721,
+        "depths": [
+          3,
+          7.5,
+          12,
+          16.5,
+          21,
+          25.5,
+          30,
+          34.5,
+          39,
+          43.5,
+          48,
+          52.5
+        ]
+      },
+      "fps": 46,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "storageAvailable": true
+    }
+  },
+  "gas-baseline.json": [
+    {
+      "wall": 0.2120999999998603,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 17.6012999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.08258400000000045,
+        "immersion": 0,
+        "nearest": 2.9174159999999993,
+        "depths": [
+          2.917,
+          7.417,
+          11.917,
+          16.417,
+          20.917,
+          25.417,
+          29.917,
+          34.417,
+          38.917,
+          43.417,
+          47.917,
+          52.417
+        ]
+      },
+      "fps": 60,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 0.46569999999995343,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 17.9679999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.30993800000000093,
+        "immersion": 0,
+        "nearest": 2.690061999999999,
+        "depths": [
+          2.69,
+          7.19,
+          11.69,
+          16.19,
+          20.69,
+          25.19,
+          29.69,
+          34.19,
+          38.69,
+          43.19,
+          47.69,
+          52.19
+        ]
+      },
+      "fps": 60,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 0.6848999999999069,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 18.1845999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.44423000000000007,
+        "immersion": 0,
+        "nearest": 2.5557699999999994,
+        "depths": [
+          2.556,
+          7.056,
+          11.556,
+          16.056,
+          20.556,
+          25.056,
+          29.556,
+          34.056,
+          38.556,
+          43.056,
+          47.556,
+          52.056
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 0.8587999999998137,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 18.3512999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.5475840000000006,
+        "immersion": 0,
+        "nearest": 2.452415999999999,
+        "depths": [
+          2.452,
+          6.952,
+          11.452,
+          15.952,
+          20.452,
+          24.952,
+          29.452,
+          33.952,
+          38.452,
+          42.952,
+          47.452,
+          51.952
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 1.0885,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 18.5845999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.6922300000000003,
+        "immersion": 0,
+        "nearest": 2.3077699999999997,
+        "depths": [
+          2.308,
+          6.808,
+          11.308,
+          15.808,
+          20.308,
+          24.808,
+          29.308,
+          33.808,
+          38.308,
+          42.808,
+          47.308,
+          51.808
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 1.2825,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 18.768099999999897,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.8060000000000004,
+        "immersion": 0,
+        "nearest": 2.1939999999999995,
+        "depths": [
+          2.194,
+          6.694,
+          11.194,
+          15.694,
+          20.194,
+          24.694,
+          29.194,
+          33.694,
+          38.194,
+          42.694,
+          47.194,
+          51.694
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 1.501899999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 18.984599999999897,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 0.9402300000000005,
+        "immersion": 0.005181981353710905,
+        "nearest": 2.0597699999999994,
+        "depths": [
+          2.06,
+          6.56,
+          11.06,
+          15.56,
+          20.06,
+          24.56,
+          29.06,
+          33.56,
+          38.06,
+          42.56,
+          47.06,
+          51.56
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 1.6715,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 19.1512999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.0435840000000007,
+        "immersion": 0.021845103377745572,
+        "nearest": 1.9564159999999993,
+        "depths": [
+          1.956,
+          6.456,
+          10.956,
+          15.456,
+          19.956,
+          24.456,
+          28.956,
+          33.456,
+          37.956,
+          42.456,
+          46.956,
+          51.456
+        ]
+      },
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 1.8921999999999535,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 19.3845999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.1882300000000001,
+        "immersion": 0.06217930916961891,
+        "nearest": 1.8117699999999999,
+        "depths": [
+          1.812,
+          6.312,
+          10.812,
+          15.312,
+          19.812,
+          24.312,
+          28.812,
+          33.312,
+          37.812,
+          42.312,
+          46.812,
+          51.312
+        ]
+      },
+      "fps": 21,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 2.1,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 19.584599999999902,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.3122299999999998,
+        "immersion": 0.1102481569790499,
+        "nearest": 1.6877700000000002,
+        "depths": [
+          1.688,
+          6.188,
+          10.688,
+          15.188,
+          19.688,
+          24.188,
+          28.688,
+          33.188,
+          37.688,
+          42.188,
+          46.688,
+          51.188
+        ]
+      },
+      "fps": 21,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 2.257899999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 19.751399999999904,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.4156460000000015,
+        "immersion": 0.1582278990608089,
+        "nearest": 1.5843539999999985,
+        "depths": [
+          1.584,
+          6.084,
+          10.584,
+          15.084,
+          19.584,
+          24.084,
+          28.584,
+          33.084,
+          37.584,
+          42.084,
+          46.584,
+          51.084
+        ]
+      },
+      "fps": 21,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 2.4670999999998604,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 19.951299999999897,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.5395839999999998,
+        "immersion": 0.22332958450387744,
+        "nearest": 1.4604160000000002,
+        "depths": [
+          1.46,
+          5.96,
+          10.46,
+          14.96,
+          19.46,
+          23.96,
+          28.46,
+          32.96,
+          37.46,
+          41.96,
+          46.46,
+          50.96
+        ]
+      },
+      "fps": 21,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 2.683399999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 20.184499999999897,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.684168,
+        "immersion": 0.3070452645803765,
+        "nearest": 1.315832,
+        "depths": [
+          1.316,
+          5.816,
+          10.316,
+          14.816,
+          19.316,
+          23.816,
+          28.316,
+          32.816,
+          37.316,
+          41.816,
+          46.316,
+          50.816
+        ]
+      },
+      "fps": 21,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 2.8885,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 20.384599999999892,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.808229999999999,
+        "immersion": 0.38309944916503447,
+        "nearest": 1.191770000000001,
+        "depths": [
+          1.192,
+          5.692,
+          10.192,
+          14.692,
+          19.192,
+          23.692,
+          28.192,
+          32.692,
+          37.192,
+          41.692,
+          46.192,
+          50.692
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 3.091,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 20.584699999999895,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 1.932292,
+        "immersion": 0.4607928046728878,
+        "nearest": 1.067708,
+        "depths": [
+          1.068,
+          5.568,
+          10.068,
+          14.568,
+          19.068,
+          23.568,
+          28.068,
+          32.568,
+          37.068,
+          41.568,
+          46.068,
+          50.568
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 3.25359999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 20.751299999999894,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.0355839999999987,
+        "immersion": 0.5251904700386537,
+        "nearest": 0.9644160000000012,
+        "depths": [
+          0.964,
+          5.464,
+          9.964,
+          14.464,
+          18.964,
+          23.464,
+          27.964,
+          32.464,
+          36.964,
+          41.464,
+          45.964,
+          50.464
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 3.461399999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 20.951299999999893,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.159583999999999,
+        "immersion": 0.6003119007096366,
+        "nearest": 0.840416000000001,
+        "depths": [
+          0.84,
+          5.34,
+          9.84,
+          14.34,
+          18.84,
+          23.34,
+          27.84,
+          32.34,
+          36.84,
+          41.34,
+          45.84,
+          50.34
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 3.656399999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 21.151299999999893,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.283583999999999,
+        "immersion": 0.6710513492590816,
+        "nearest": 0.7164160000000009,
+        "depths": [
+          0.716,
+          5.216,
+          9.716,
+          14.216,
+          18.716,
+          23.216,
+          27.716,
+          32.216,
+          36.716,
+          41.216,
+          45.716,
+          50.216
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.85,
+      "storageAvailable": true
+    },
+    {
+      "wall": 3.8681999999999532,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 21.367899999999896,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.4178760000000006,
+        "immersion": 0.7402948890468031,
+        "nearest": 0.5821239999999995,
+        "depths": [
+          0.582,
+          5.082,
+          9.582,
+          14.082,
+          18.582,
+          23.082,
+          27.582,
+          32.082,
+          36.582,
+          41.082,
+          45.582,
+          50.082
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 4.06309999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 21.5511999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.5315220000000007,
+        "immersion": 0.7910290923833669,
+        "nearest": 0.46847799999999995,
+        "depths": [
+          0.468,
+          4.968,
+          9.468,
+          13.968,
+          18.468,
+          22.968,
+          27.468,
+          31.968,
+          36.468,
+          40.968,
+          45.468,
+          49.968
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 4.26009999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 21.7511999999999,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.6555220000000013,
+        "immersion": 0.8362706572978482,
+        "nearest": 0.34447799999999984,
+        "depths": [
+          0.344,
+          4.844,
+          9.344,
+          13.844,
+          18.344,
+          22.844,
+          27.344,
+          31.844,
+          36.344,
+          40.844,
+          45.344,
+          49.844
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 4.464,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 21.967899999999904,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.7898760000000022,
+        "immersion": 0.871327133555941,
+        "nearest": 0.21012399999999934,
+        "depths": [
+          0.21,
+          4.71,
+          9.21,
+          13.71,
+          18.21,
+          22.71,
+          27.21,
+          31.71,
+          36.21,
+          40.71,
+          45.21,
+          49.71
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 4.65559999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 22.151199999999907,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 2.9035220000000024,
+        "immersion": 0.8882508808774473,
+        "nearest": 0.09647799999999979,
+        "depths": [
+          0.096,
+          4.596,
+          9.096,
+          13.596,
+          18.096,
+          22.596,
+          27.096,
+          31.596,
+          36.096,
+          40.596,
+          45.096,
+          49.596
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 4.850699999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 22.351299999999906,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.027584000000002,
+        "immersion": 0.8924579540264304,
+        "nearest": 0.027583999999999307,
+        "depths": [
+          -0.028,
+          4.472,
+          8.972,
+          13.472,
+          17.972,
+          22.472,
+          26.972,
+          31.472,
+          35.972,
+          40.472,
+          44.972,
+          49.472
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 5.097799999999814,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 22.58449999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.1721680000000028,
+        "immersion": 0.8783303094321808,
+        "nearest": 0.17216799999999977,
+        "depths": [
+          -0.172,
+          4.328,
+          8.828,
+          13.328,
+          17.828,
+          22.328,
+          26.828,
+          31.328,
+          35.828,
+          40.328,
+          44.828,
+          49.328
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 5.307,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 22.78449999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.296168000000003,
+        "immersion": 0.8506514276119809,
+        "nearest": 0.29616799999999976,
+        "depths": [
+          -0.296,
+          4.204,
+          8.704,
+          13.204,
+          17.704,
+          22.204,
+          26.704,
+          31.204,
+          35.704,
+          40.204,
+          44.704,
+          49.204
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 5.45109999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 22.95119999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.3995220000000037,
+        "immersion": 0.817602956233376,
+        "nearest": 0.39952200000000027,
+        "depths": [
+          -0.4,
+          4.1,
+          8.6,
+          13.1,
+          17.6,
+          22.1,
+          26.6,
+          31.1,
+          35.6,
+          40.1,
+          44.6,
+          49.1
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 5.698099999999861,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 23.201199999999915,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.5545220000000044,
+        "immersion": 0.7533434426445896,
+        "nearest": 0.5545220000000004,
+        "depths": [
+          -0.555,
+          3.945,
+          8.445,
+          12.945,
+          17.445,
+          21.945,
+          26.445,
+          30.945,
+          35.445,
+          39.945,
+          44.445,
+          48.945
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 5.892199999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 23.384499999999917,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.6681680000000045,
+        "immersion": 0.6969342487621268,
+        "nearest": 0.668168,
+        "depths": [
+          -0.668,
+          3.832,
+          8.332,
+          12.832,
+          17.332,
+          21.832,
+          26.332,
+          30.832,
+          35.332,
+          39.832,
+          44.332,
+          48.832
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 6.081099999999861,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 23.58449999999992,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.792168000000005,
+        "immersion": 0.6284643087635005,
+        "nearest": 0.7921680000000001,
+        "depths": [
+          -0.792,
+          3.708,
+          8.208,
+          12.708,
+          17.208,
+          21.708,
+          26.208,
+          30.708,
+          35.208,
+          39.708,
+          44.208,
+          48.708
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 6.27309999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 23.76779999999992,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 3.905814000000005,
+        "immersion": 0.5610929644210397,
+        "nearest": 0.9058139999999998,
+        "depths": [
+          -0.906,
+          3.594,
+          8.094,
+          12.594,
+          17.094,
+          21.594,
+          26.094,
+          30.594,
+          35.094,
+          39.594,
+          44.094,
+          48.594
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 6.479399999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 23.96779999999992,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.0298140000000044,
+        "immersion": 0.48450624358472805,
+        "nearest": 1.0298139999999998,
+        "depths": [
+          -1.03,
+          3.47,
+          7.97,
+          12.47,
+          16.97,
+          21.47,
+          25.97,
+          30.47,
+          34.97,
+          39.47,
+          43.97,
+          48.47
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 6.668,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 24.16779999999992,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.153814000000003,
+        "immersion": 0.4067706952178912,
+        "nearest": 1.1538139999999995,
+        "depths": [
+          -1.154,
+          3.346,
+          7.846,
+          12.346,
+          16.846,
+          21.346,
+          25.846,
+          30.346,
+          34.846,
+          39.346,
+          43.846,
+          48.346
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 6.8815,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 24.367799999999924,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.277814000000002,
+        "immersion": 0.3300170965237234,
+        "nearest": 1.2778139999999991,
+        "depths": [
+          -1.278,
+          3.222,
+          7.722,
+          12.222,
+          16.722,
+          21.222,
+          25.722,
+          30.222,
+          34.722,
+          39.222,
+          43.722,
+          48.222
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 7.085899999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 24.584599999999924,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.412230000000001,
+        "immersion": 0.2504062718638416,
+        "nearest": 1.4122299999999985,
+        "depths": [
+          -1.412,
+          3.088,
+          7.588,
+          12.088,
+          16.588,
+          21.088,
+          25.588,
+          30.088,
+          34.588,
+          39.088,
+          43.588,
+          48.088
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 7.3002999999998135,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 24.784499999999927,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.536168000000001,
+        "immersion": 0.1826012588326791,
+        "nearest": 1.536167999999999,
+        "depths": [
+          -1.536,
+          2.964,
+          7.464,
+          11.964,
+          16.464,
+          20.964,
+          25.464,
+          29.964,
+          34.464,
+          38.964,
+          43.464,
+          47.964
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 7.467199999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 24.951099999999926,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.63946,
+        "immersion": 0.1317861052291102,
+        "nearest": 1.639459999999998,
+        "depths": [
+          -1.639,
+          2.861,
+          7.361,
+          11.861,
+          16.361,
+          20.861,
+          25.361,
+          29.861,
+          34.361,
+          38.861,
+          43.361,
+          47.861
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 7.697299999999814,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 25.18439999999993,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.784106,
+        "immersion": 0.0718277356983847,
+        "nearest": 1.7841059999999997,
+        "depths": [
+          -1.784,
+          2.716,
+          7.216,
+          11.716,
+          16.216,
+          20.716,
+          25.216,
+          29.716,
+          34.216,
+          38.716,
+          43.216,
+          47.716
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.7,
+      "storageAvailable": true
+    },
+    {
+      "wall": 7.863,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 25.351299999999927,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 4.8875839999999995,
+        "immersion": 0.038645467195184253,
+        "nearest": 1.8875839999999982,
+        "depths": [
+          -1.888,
+          2.612,
+          7.112,
+          11.612,
+          16.112,
+          20.612,
+          25.112,
+          29.612,
+          34.112,
+          38.612,
+          43.112,
+          47.612
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 8.082199999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 25.567799999999924,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.021813999999999,
+        "immersion": 0.00995909879287333,
+        "nearest": 2.0218139999999982,
+        "depths": [
+          -2.022,
+          2.478,
+          6.978,
+          11.478,
+          15.978,
+          20.478,
+          24.978,
+          29.478,
+          33.978,
+          38.478,
+          42.978,
+          47.478
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 8.307899999999908,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 25.784499999999923,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.156167999999998,
+        "immersion": 0,
+        "nearest": 2.156167999999999,
+        "depths": [
+          -2.156,
+          2.344,
+          6.844,
+          11.344,
+          15.844,
+          20.344,
+          24.844,
+          29.344,
+          33.844,
+          38.344,
+          42.844,
+          47.344
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 8.462799999999813,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 25.951199999999922,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.259521999999999,
+        "immersion": 0,
+        "nearest": 2.2404780000000106,
+        "depths": [
+          -2.26,
+          2.24,
+          6.74,
+          11.24,
+          15.74,
+          20.24,
+          24.74,
+          29.24,
+          33.74,
+          38.24,
+          42.74,
+          47.24
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 8.670699999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 26.167799999999918,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.393813999999998,
+        "immersion": 0,
+        "nearest": 2.1061860000000117,
+        "depths": [
+          -2.394,
+          2.106,
+          6.606,
+          11.106,
+          15.606,
+          20.106,
+          24.606,
+          29.106,
+          33.606,
+          38.106,
+          42.606,
+          47.106
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 8.886699999999953,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 26.384599999999917,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.528229999999997,
+        "immersion": 0,
+        "nearest": 1.971770000000012,
+        "depths": [
+          -2.528,
+          1.972,
+          6.472,
+          10.972,
+          15.472,
+          19.972,
+          24.472,
+          28.972,
+          33.472,
+          37.972,
+          42.472,
+          46.972
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 9.095199999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 26.584499999999917,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.652167999999998,
+        "immersion": 0,
+        "nearest": 1.8478320000000115,
+        "depths": [
+          -2.652,
+          1.848,
+          6.348,
+          10.848,
+          15.348,
+          19.848,
+          24.348,
+          28.848,
+          33.348,
+          37.848,
+          42.348,
+          46.848
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 9.318199999999953,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 26.801099999999913,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.786459999999997,
+        "immersion": 0,
+        "nearest": 1.7135400000000127,
+        "depths": [
+          -2.786,
+          1.714,
+          6.214,
+          10.714,
+          15.214,
+          19.714,
+          24.214,
+          28.714,
+          33.214,
+          37.714,
+          42.214,
+          46.714
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 9.478699999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 26.96779999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 5.889813999999998,
+        "immersion": 0,
+        "nearest": 1.6101860000000123,
+        "depths": [
+          -2.89,
+          1.61,
+          6.11,
+          10.61,
+          15.11,
+          19.61,
+          24.11,
+          28.61,
+          33.11,
+          37.61,
+          42.11,
+          46.61
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 9.68,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 27.167699999999915,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 0,
+        "distance": 6.0137519999999975,
+        "immersion": 0,
+        "nearest": 1.4862480000000118,
+        "depths": [
+          -3.014,
+          1.486,
+          5.986,
+          10.486,
+          14.986,
+          19.486,
+          23.986,
+          28.486,
+          32.986,
+          37.486,
+          41.986,
+          46.486
+        ]
+      },
+      "fps": 18,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 9.89659999999986,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 27.38459999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.148229999999996,
+        "immersion": 0.002838994292811293,
+        "nearest": 1.3517700000000132,
+        "depths": [
+          50.852,
+          1.352,
+          5.852,
+          10.352,
+          14.852,
+          19.352,
+          23.852,
+          28.352,
+          32.852,
+          37.352,
+          41.852,
+          46.352
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 10.054399999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 27.55109999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.251459999999997,
+        "immersion": 0.016424126146624616,
+        "nearest": 1.2485400000000133,
+        "depths": [
+          50.749,
+          1.249,
+          5.749,
+          10.249,
+          14.749,
+          19.249,
+          23.749,
+          28.249,
+          32.749,
+          37.249,
+          41.749,
+          46.249
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 10.266199999999953,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 27.767699999999913,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.385751999999997,
+        "immersion": 0.04763124230609162,
+        "nearest": 1.1142480000000121,
+        "depths": [
+          50.614,
+          1.114,
+          5.614,
+          10.114,
+          14.614,
+          19.114,
+          23.614,
+          28.114,
+          32.614,
+          37.114,
+          41.614,
+          46.114
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 10.461299999999813,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 27.95099999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.499397999999997,
+        "immersion": 0.08280226556554575,
+        "nearest": 1.0006020000000129,
+        "depths": [
+          50.501,
+          1.001,
+          5.501,
+          10.001,
+          14.501,
+          19.001,
+          23.501,
+          28.001,
+          32.501,
+          37.001,
+          41.501,
+          46.001
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 10.6675,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 28.167699999999908,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.633751999999998,
+        "immersion": 0.13075468291773393,
+        "nearest": 0.8662480000000123,
+        "depths": [
+          50.366,
+          0.866,
+          5.366,
+          9.866,
+          14.366,
+          18.866,
+          23.366,
+          27.866,
+          32.366,
+          36.866,
+          41.366,
+          45.866
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 10.864199999999954,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 28.367699999999907,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.757751999999997,
+        "immersion": 0.17756813355505388,
+        "nearest": 0.7422480000000122,
+        "depths": [
+          50.242,
+          0.742,
+          5.242,
+          9.742,
+          14.242,
+          18.742,
+          23.242,
+          27.742,
+          32.242,
+          36.742,
+          41.242,
+          45.742
+        ]
+      },
+      "fps": 19,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 11.0575,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 28.55099999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.871397999999996,
+        "immersion": 0.21979030605365157,
+        "nearest": 0.6286020000000127,
+        "depths": [
+          50.129,
+          0.629,
+          5.129,
+          9.629,
+          14.129,
+          18.629,
+          23.129,
+          27.629,
+          32.129,
+          36.629,
+          41.129,
+          45.629
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 11.264599999999861,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 28.75109999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 6.995459999999994,
+        "immersion": 0.26237024476096327,
+        "nearest": 0.5045400000000134,
+        "depths": [
+          50.005,
+          0.505,
+          5.005,
+          9.505,
+          14.005,
+          18.505,
+          23.005,
+          27.505,
+          32.005,
+          36.505,
+          41.005,
+          45.505
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 11.479399999999908,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 28.96759999999991,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 7.129689999999993,
+        "immersion": 0.30135315688048037,
+        "nearest": 0.3703100000000134,
+        "depths": [
+          49.87,
+          0.37,
+          4.87,
+          9.37,
+          13.87,
+          18.37,
+          22.87,
+          27.37,
+          31.87,
+          36.37,
+          40.87,
+          45.37
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 11.685,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 29.184299999999904,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 7.264043999999993,
+        "immersion": 0.33029678686148434,
+        "nearest": 0.23595600000001296,
+        "depths": [
+          49.736,
+          0.236,
+          4.736,
+          9.236,
+          13.736,
+          18.236,
+          22.736,
+          27.236,
+          31.736,
+          36.236,
+          40.736,
+          45.236
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    },
+    {
+      "wall": 11.889899999999907,
+      "settings": {
+        "mode": "gases",
+        "speed": 20,
+        "density": 40000,
+        "trail": 35,
+        "nebula": 65,
+        "quality": "auto",
+        "autopilot": false,
+        "glow": true
+      },
+      "running": true,
+      "warp": false,
+      "boost": 0,
+      "time": 29.384399999999903,
+      "starCount": 40000,
+      "farStarCount": 950,
+      "starDepth": {
+        "spawn": 28,
+        "fadeStart": 19,
+        "birthOpacity": 0
+      },
+      "gas": {
+        "count": 12,
+        "passed": 1,
+        "distance": 7.388105999999994,
+        "immersion": 0.3462838418858409,
+        "nearest": 0.11189400000001164,
+        "depths": [
+          49.612,
+          0.112,
+          4.612,
+          9.112,
+          13.612,
+          18.112,
+          22.612,
+          27.112,
+          31.612,
+          36.112,
+          40.612,
+          45.112
+        ]
+      },
+      "fps": 20,
+      "width": 1920,
+      "height": 1080,
+      "dpr": 0.65,
+      "storageAvailable": true
+    }
+  ],
+  "gas-final-verification.json": {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "density": 40000,
+    "insideMedianFPS": 32.0,
+    "flightWorldUnitsPerSecond": 0.6208568093251656,
+    "expectedWorldUnitsPerSecond": 0.62,
+    "maxImmersion": 0.892458941345638,
+    "cloudEntryExitVerified": true,
+    "samples": [
+      {
+        "wall": 0.20469999999995345,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 2.5030000000001364,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.1343539999999999,
+          "immersion": 0,
+          "nearest": 2.8656460000000004,
+          "depths": [
+            2.866,
+            7.366,
+            11.866,
+            16.366,
+            20.866,
+            25.366,
+            29.866,
+            34.366,
+            38.866,
+            43.366,
+            47.866,
+            52.366
+          ]
+        },
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 0.4465999999998603,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 2.769600000000136,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.29964599999999986,
+          "immersion": 0,
+          "nearest": 2.7003540000000004,
+          "depths": [
+            2.7,
+            7.2,
+            11.7,
+            16.2,
+            20.7,
+            25.2,
+            29.7,
+            34.2,
+            38.7,
+            43.2,
+            47.7,
+            52.2
+          ]
+        },
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 0.664,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 2.9696000000001352,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.4236459999999999,
+          "immersion": 0,
+          "nearest": 2.576354000000001,
+          "depths": [
+            2.576,
+            7.076,
+            11.576,
+            16.076,
+            20.576,
+            25.076,
+            29.576,
+            34.076,
+            38.576,
+            43.076,
+            47.576,
+            52.076
+          ]
+        },
+        "fps": 60,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 0.83,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 3.1530000000001346,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.537354,
+          "immersion": 0,
+          "nearest": 2.4626460000000012,
+          "depths": [
+            2.463,
+            6.963,
+            11.463,
+            15.963,
+            20.463,
+            24.963,
+            29.463,
+            33.963,
+            38.463,
+            42.963,
+            47.463,
+            51.963
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 1.043,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 3.3695000000001345,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.6715840000000002,
+          "immersion": 0,
+          "nearest": 2.3284160000000016,
+          "depths": [
+            2.328,
+            6.828,
+            11.328,
+            15.828,
+            20.328,
+            24.828,
+            29.328,
+            33.828,
+            38.328,
+            42.828,
+            47.328,
+            51.828
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 1.2363000000000466,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 3.552900000000134,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.7852920000000003,
+          "immersion": 0,
+          "nearest": 2.2147080000000012,
+          "depths": [
+            2.215,
+            6.715,
+            11.215,
+            15.715,
+            20.215,
+            24.715,
+            29.215,
+            33.715,
+            38.215,
+            42.715,
+            47.215,
+            51.715
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 1.441899999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 3.7529000000001336,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 0.9092920000000003,
+          "immersion": 0.0023339333088952703,
+          "nearest": 2.0907080000000016,
+          "depths": [
+            2.091,
+            6.591,
+            11.091,
+            15.591,
+            20.091,
+            24.591,
+            29.091,
+            33.591,
+            38.091,
+            42.591,
+            47.091,
+            51.591
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 1.649399999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 3.969500000000133,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.0435840000000003,
+          "immersion": 0.021757254125714085,
+          "nearest": 1.9564160000000022,
+          "depths": [
+            1.956,
+            6.456,
+            10.956,
+            15.456,
+            19.956,
+            24.456,
+            28.956,
+            33.456,
+            37.956,
+            42.456,
+            46.956,
+            51.456
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 1.8305,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 4.152900000000134,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.1572920000000004,
+          "immersion": 0.05193350008691642,
+          "nearest": 1.842708000000002,
+          "depths": [
+            1.843,
+            6.343,
+            10.843,
+            15.343,
+            19.843,
+            24.343,
+            28.843,
+            33.343,
+            37.843,
+            42.343,
+            46.843,
+            51.343
+          ]
+        },
+        "fps": 35,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 2.0440999999998604,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 4.352900000000135,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.2812920000000005,
+          "immersion": 0.09713365737913175,
+          "nearest": 1.718708000000002,
+          "depths": [
+            1.719,
+            6.219,
+            10.719,
+            15.219,
+            19.719,
+            24.219,
+            28.719,
+            33.219,
+            37.719,
+            42.219,
+            46.719,
+            51.219
+          ]
+        },
+        "fps": 35,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 2.2546999999999535,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 4.569600000000136,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.4156460000000006,
+          "immersion": 0.15816057341191317,
+          "nearest": 1.5843540000000018,
+          "depths": [
+            1.584,
+            6.084,
+            10.584,
+            15.084,
+            19.584,
+            24.084,
+            28.584,
+            33.084,
+            37.584,
+            42.084,
+            46.584,
+            51.084
+          ]
+        },
+        "fps": 35,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 2.4378000000000464,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 4.752900000000137,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.5292920000000008,
+          "immersion": 0.21760161893059968,
+          "nearest": 1.4707080000000017,
+          "depths": [
+            1.471,
+            5.971,
+            10.471,
+            14.971,
+            19.471,
+            23.971,
+            28.471,
+            32.971,
+            37.471,
+            41.971,
+            46.471,
+            50.971
+          ]
+        },
+        "fps": 35,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 2.6525,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 4.969600000000138,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.6636460000000008,
+          "immersion": 0.29473161828536654,
+          "nearest": 1.3363540000000016,
+          "depths": [
+            1.336,
+            5.836,
+            10.336,
+            14.836,
+            19.336,
+            23.836,
+            28.336,
+            32.836,
+            37.336,
+            41.836,
+            46.336,
+            50.836
+          ]
+        },
+        "fps": 35,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 2.8313999999999067,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 5.15280000000014,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.777230000000001,
+          "immersion": 0.36382796951148627,
+          "nearest": 1.2227700000000015,
+          "depths": [
+            1.223,
+            5.723,
+            10.223,
+            14.723,
+            19.223,
+            23.723,
+            28.223,
+            32.723,
+            37.223,
+            41.723,
+            46.223,
+            50.723
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 3.04,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 5.352900000000141,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 1.9012920000000013,
+          "immersion": 0.4413204520832469,
+          "nearest": 1.0987080000000011,
+          "depths": [
+            1.099,
+            5.599,
+            10.099,
+            14.599,
+            19.099,
+            23.599,
+            28.099,
+            32.599,
+            37.099,
+            41.599,
+            46.099,
+            50.599
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 3.248899999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 5.569500000000143,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.035584000000002,
+          "immersion": 0.5251751437366567,
+          "nearest": 0.9644160000000006,
+          "depths": [
+            0.964,
+            5.464,
+            9.964,
+            14.464,
+            18.964,
+            23.464,
+            27.964,
+            32.464,
+            36.964,
+            41.464,
+            45.964,
+            50.464
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 3.4338000000000464,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 5.752900000000142,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.149292000000002,
+          "immersion": 0.5942034877147685,
+          "nearest": 0.8507080000000009,
+          "depths": [
+            0.851,
+            5.351,
+            9.851,
+            14.351,
+            18.851,
+            23.351,
+            27.851,
+            32.351,
+            36.851,
+            41.351,
+            45.851,
+            50.351
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 3.6480999999998605,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 5.969500000000143,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.283584000000003,
+          "immersion": 0.6710437701066405,
+          "nearest": 0.7164160000000005,
+          "depths": [
+            0.716,
+            5.216,
+            9.716,
+            14.216,
+            18.716,
+            23.216,
+            27.716,
+            32.216,
+            36.716,
+            41.216,
+            45.716,
+            50.216
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 1,
+        "storageAvailable": true
+      },
+      {
+        "wall": 3.8333000000000466,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 6.152800000000143,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.397230000000003,
+          "immersion": 0.7302430805230352,
+          "nearest": 0.602770000000001,
+          "depths": [
+            0.603,
+            5.103,
+            9.603,
+            14.103,
+            18.603,
+            23.103,
+            27.603,
+            32.103,
+            36.603,
+            41.103,
+            45.603,
+            50.103
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 4.047199999999953,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 6.369500000000144,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.531584000000004,
+          "immersion": 0.7910508967223692,
+          "nearest": 0.4684160000000005,
+          "depths": [
+            0.468,
+            4.968,
+            9.468,
+            13.968,
+            18.468,
+            22.968,
+            27.468,
+            31.968,
+            36.468,
+            40.968,
+            45.468,
+            49.968
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 4.231699999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 6.552800000000145,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.645230000000004,
+          "immersion": 0.8329584995839531,
+          "nearest": 0.354770000000001,
+          "depths": [
+            0.355,
+            4.855,
+            9.355,
+            13.855,
+            18.355,
+            22.855,
+            27.355,
+            31.855,
+            36.355,
+            40.855,
+            45.355,
+            49.855
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 4.4465,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 6.769400000000147,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.779522000000005,
+          "immersion": 0.8691855477817811,
+          "nearest": 0.22047800000000078,
+          "depths": [
+            0.22,
+            4.72,
+            9.22,
+            13.72,
+            18.22,
+            22.72,
+            27.22,
+            31.72,
+            36.22,
+            40.72,
+            45.22,
+            49.72
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 4.643699999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 6.952800000000146,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 2.8932300000000053,
+          "immersion": 0.8872235151136747,
+          "nearest": 0.106770000000001,
+          "depths": [
+            0.107,
+            4.607,
+            9.107,
+            13.607,
+            18.107,
+            22.607,
+            27.107,
+            31.607,
+            36.107,
+            40.607,
+            45.107,
+            49.607
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 4.856,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 7.169400000000148,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.027522000000006,
+          "immersion": 0.892458941345638,
+          "nearest": 0.027521999999999224,
+          "depths": [
+            -0.028,
+            4.472,
+            8.972,
+            13.472,
+            17.972,
+            22.472,
+            26.972,
+            31.472,
+            35.972,
+            40.472,
+            44.972,
+            49.472
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 5.06409999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 7.369500000000149,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.151584000000007,
+          "immersion": 0.8815673545531701,
+          "nearest": 0.15158399999999947,
+          "depths": [
+            -0.152,
+            4.348,
+            8.848,
+            13.348,
+            17.848,
+            22.348,
+            26.848,
+            31.348,
+            35.848,
+            40.348,
+            44.848,
+            49.348
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 5.235,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 7.5529000000001485,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.265292000000007,
+          "immersion": 0.8588164289871246,
+          "nearest": 0.26529199999999925,
+          "depths": [
+            -0.265,
+            4.235,
+            8.735,
+            13.235,
+            17.735,
+            22.235,
+            26.735,
+            31.235,
+            35.735,
+            40.235,
+            44.735,
+            49.235
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 5.439800000000046,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 7.75290000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.3892920000000077,
+          "immersion": 0.8212488577751179,
+          "nearest": 0.38929199999999925,
+          "depths": [
+            -0.389,
+            4.111,
+            8.611,
+            13.111,
+            17.611,
+            22.111,
+            26.611,
+            31.111,
+            35.611,
+            40.111,
+            44.611,
+            49.111
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 5.6440999999998605,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 7.952800000000151,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.513230000000008,
+          "immersion": 0.7720174748192997,
+          "nearest": 0.513229999999999,
+          "depths": [
+            -0.513,
+            3.987,
+            8.487,
+            12.987,
+            17.487,
+            21.987,
+            26.487,
+            30.987,
+            35.487,
+            39.987,
+            44.487,
+            48.987
+          ]
+        },
+        "fps": 32,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 5.848,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 8.152800000000152,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.6372300000000086,
+          "immersion": 0.7129628825313851,
+          "nearest": 0.6372299999999991,
+          "depths": [
+            -0.637,
+            3.863,
+            8.363,
+            12.863,
+            17.363,
+            21.863,
+            26.363,
+            30.863,
+            35.363,
+            39.863,
+            44.363,
+            48.863
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 6.0495,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 8.369400000000153,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.7715220000000094,
+          "immersion": 0.6402819076051378,
+          "nearest": 0.7715219999999994,
+          "depths": [
+            -0.772,
+            3.728,
+            8.228,
+            12.728,
+            17.228,
+            21.728,
+            26.228,
+            30.728,
+            35.228,
+            39.728,
+            44.228,
+            48.728
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 6.2613000000000465,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 8.56970000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 3.8957080000000093,
+          "immersion": 0.5672191741245145,
+          "nearest": 0.8957079999999988,
+          "depths": [
+            -0.896,
+            3.604,
+            8.104,
+            12.604,
+            17.104,
+            21.604,
+            26.104,
+            30.604,
+            35.104,
+            39.604,
+            44.104,
+            48.604
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 6.45909999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 8.76940000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.01952200000001,
+          "immersion": 0.49093586620959323,
+          "nearest": 1.0195219999999994,
+          "depths": [
+            -1.02,
+            3.48,
+            7.98,
+            12.48,
+            16.98,
+            21.48,
+            25.98,
+            30.48,
+            34.98,
+            39.48,
+            43.98,
+            48.48
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 6.663199999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 8.969500000000151,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.14358400000001,
+          "immersion": 0.4131758506355017,
+          "nearest": 1.1435839999999993,
+          "depths": [
+            -1.144,
+            3.356,
+            7.856,
+            12.356,
+            16.856,
+            21.356,
+            25.856,
+            30.356,
+            34.856,
+            39.356,
+            43.856,
+            48.356
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 6.8345,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 9.15270000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.25716800000001,
+          "immersion": 0.34263787730094797,
+          "nearest": 1.2571679999999983,
+          "depths": [
+            -1.257,
+            3.243,
+            7.743,
+            12.243,
+            16.743,
+            21.243,
+            25.743,
+            30.243,
+            34.743,
+            39.243,
+            43.743,
+            48.243
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 7.065399999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 9.38610000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.40187600000001,
+          "immersion": 0.25634629393722946,
+          "nearest": 1.4018759999999988,
+          "depths": [
+            -1.402,
+            3.098,
+            7.598,
+            12.098,
+            16.598,
+            21.098,
+            25.598,
+            30.098,
+            34.598,
+            39.098,
+            43.598,
+            48.098
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 7.26459999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 9.586100000000151,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.52587600000001,
+          "immersion": 0.18797299672238435,
+          "nearest": 1.5258759999999985,
+          "depths": [
+            -1.526,
+            2.974,
+            7.474,
+            11.974,
+            16.474,
+            20.974,
+            25.474,
+            29.974,
+            34.474,
+            38.974,
+            43.474,
+            47.974
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 7.442800000000046,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 9.75300000000015,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.629354000000009,
+          "immersion": 0.1364910064036224,
+          "nearest": 1.629353999999998,
+          "depths": [
+            -1.629,
+            2.871,
+            7.371,
+            11.871,
+            16.371,
+            20.871,
+            25.371,
+            29.871,
+            34.371,
+            38.871,
+            43.371,
+            47.871
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 7.636399999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 9.952700000000148,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.7531680000000085,
+          "immersion": 0.08341020769229766,
+          "nearest": 1.753167999999997,
+          "depths": [
+            -1.753,
+            2.747,
+            7.247,
+            11.747,
+            16.247,
+            20.747,
+            25.247,
+            29.747,
+            34.247,
+            38.747,
+            43.247,
+            47.747
+          ]
+        },
+        "fps": 29,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.85,
+        "storageAvailable": true
+      },
+      {
+        "wall": 7.8490999999998605,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 10.169400000000147,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 4.887522000000009,
+          "immersion": 0.03866262508515641,
+          "nearest": 1.887521999999997,
+          "depths": [
+            -1.888,
+            2.612,
+            7.112,
+            11.612,
+            16.112,
+            20.612,
+            25.112,
+            29.612,
+            34.112,
+            38.612,
+            43.112,
+            47.612
+          ]
+        },
+        "fps": 30,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 8.059199999999953,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 10.369500000000146,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.011584000000009,
+          "immersion": 0.011520428200942363,
+          "nearest": 2.011583999999997,
+          "depths": [
+            -2.012,
+            2.488,
+            6.988,
+            11.488,
+            15.988,
+            20.488,
+            24.988,
+            29.488,
+            33.988,
+            38.488,
+            42.988,
+            47.488
+          ]
+        },
+        "fps": 30,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 8.242800000000047,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 10.552700000000145,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.125168000000008,
+          "immersion": 0.0004916988028252008,
+          "nearest": 2.125167999999997,
+          "depths": [
+            -2.125,
+            2.375,
+            6.875,
+            11.375,
+            15.875,
+            20.375,
+            24.875,
+            29.375,
+            33.875,
+            38.375,
+            42.875,
+            47.375
+          ]
+        },
+        "fps": 30,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 8.453899999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 10.769400000000145,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.2595220000000085,
+          "immersion": 0,
+          "nearest": 2.2404780000000017,
+          "depths": [
+            -2.26,
+            2.24,
+            6.74,
+            11.24,
+            15.74,
+            20.24,
+            24.74,
+            29.24,
+            33.74,
+            38.24,
+            42.74,
+            47.24
+          ]
+        },
+        "fps": 30,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 8.633699999999953,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 10.952700000000144,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.373168000000008,
+          "immersion": 0,
+          "nearest": 2.1268320000000016,
+          "depths": [
+            -2.373,
+            2.127,
+            6.627,
+            11.127,
+            15.627,
+            20.127,
+            24.627,
+            29.127,
+            33.627,
+            38.127,
+            42.627,
+            47.127
+          ]
+        },
+        "fps": 30,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 8.8405,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 11.152700000000142,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.497168000000009,
+          "immersion": 0,
+          "nearest": 2.002832000000001,
+          "depths": [
+            -2.497,
+            2.003,
+            6.503,
+            11.003,
+            15.503,
+            20.003,
+            24.503,
+            29.003,
+            33.503,
+            38.003,
+            42.503,
+            47.003
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 9.047699999999953,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 11.36930000000014,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.6314600000000095,
+          "immersion": 0,
+          "nearest": 1.8685400000000012,
+          "depths": [
+            -2.631,
+            1.869,
+            6.369,
+            10.869,
+            15.369,
+            19.869,
+            24.369,
+            28.869,
+            33.369,
+            37.869,
+            42.369,
+            46.869
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 9.2555,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 11.569400000000138,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.75552200000001,
+          "immersion": 0,
+          "nearest": 1.7444780000000013,
+          "depths": [
+            -2.756,
+            1.744,
+            6.244,
+            10.744,
+            15.244,
+            19.744,
+            24.244,
+            28.744,
+            33.244,
+            37.744,
+            42.244,
+            46.744
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 9.435300000000046,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 11.752700000000138,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 5.869168000000009,
+          "immersion": 0,
+          "nearest": 1.630832000000002,
+          "depths": [
+            -2.869,
+            1.631,
+            6.131,
+            10.631,
+            15.131,
+            19.631,
+            24.131,
+            28.631,
+            33.131,
+            37.631,
+            42.131,
+            46.631
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 9.64459999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 11.969300000000137,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 0,
+          "distance": 6.003460000000009,
+          "immersion": 0,
+          "nearest": 1.4965400000000022,
+          "depths": [
+            -3.003,
+            1.497,
+            5.997,
+            10.497,
+            14.997,
+            19.497,
+            23.997,
+            28.497,
+            32.997,
+            37.497,
+            41.997,
+            46.497
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 9.85409999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 12.169400000000138,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.127522000000011,
+          "immersion": 0,
+          "nearest": 1.3724780000000023,
+          "depths": [
+            50.872,
+            1.372,
+            5.872,
+            10.372,
+            14.872,
+            19.372,
+            23.872,
+            28.372,
+            32.872,
+            37.372,
+            41.872,
+            46.372
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 10.03509999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 12.352700000000135,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.241168000000011,
+          "immersion": 0,
+          "nearest": 1.258832000000003,
+          "depths": [
+            50.759,
+            1.259,
+            5.759,
+            10.259,
+            14.759,
+            19.259,
+            23.759,
+            28.259,
+            32.759,
+            37.259,
+            41.759,
+            46.259
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 10.24459999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 12.552700000000135,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.365168000000011,
+          "immersion": 0,
+          "nearest": 1.1348320000000034,
+          "depths": [
+            50.635,
+            1.135,
+            5.635,
+            10.135,
+            14.635,
+            19.135,
+            23.635,
+            28.135,
+            32.635,
+            37.135,
+            41.635,
+            46.135
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 10.45559999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 12.769400000000134,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.499522000000012,
+          "immersion": 0,
+          "nearest": 1.0004780000000033,
+          "depths": [
+            50.5,
+            1,
+            5.5,
+            10,
+            14.5,
+            19,
+            23.5,
+            28,
+            32.5,
+            37,
+            41.5,
+            46
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 10.634199999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 12.952600000000134,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.6131060000000135,
+          "immersion": 0,
+          "nearest": 0.886894000000003,
+          "depths": [
+            50.387,
+            0.887,
+            5.387,
+            9.887,
+            14.387,
+            18.887,
+            23.387,
+            27.887,
+            32.387,
+            36.887,
+            41.387,
+            45.887
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 10.84359999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 13.15270000000013,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.737168000000014,
+          "immersion": 0.00312949531518586,
+          "nearest": 0.762832000000004,
+          "depths": [
+            50.263,
+            0.763,
+            5.263,
+            9.763,
+            14.263,
+            18.763,
+            23.263,
+            27.763,
+            32.263,
+            36.763,
+            41.263,
+            45.763
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 11.052699999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 13.369300000000132,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.871460000000014,
+          "immersion": 0.014813469855664197,
+          "nearest": 0.6285400000000039,
+          "depths": [
+            50.129,
+            0.629,
+            5.129,
+            9.629,
+            14.129,
+            18.629,
+            23.129,
+            27.629,
+            32.129,
+            36.629,
+            41.129,
+            45.629
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 11.230399999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 13.552600000000131,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 6.985106000000015,
+          "immersion": 0.028222431862818354,
+          "nearest": 0.5148940000000032,
+          "depths": [
+            50.015,
+            0.515,
+            5.015,
+            9.515,
+            14.015,
+            18.515,
+            23.015,
+            27.515,
+            32.015,
+            36.515,
+            41.015,
+            45.515
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 11.438199999999954,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 13.752600000000129,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 7.109106000000017,
+          "immersion": 0.04342481087023329,
+          "nearest": 0.39089400000000324,
+          "depths": [
+            49.891,
+            0.391,
+            4.891,
+            9.391,
+            13.891,
+            18.391,
+            22.891,
+            27.391,
+            31.891,
+            36.391,
+            40.891,
+            45.391
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 11.64559999999986,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 13.969300000000127,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 7.243460000000016,
+          "immersion": 0.05756467405177654,
+          "nearest": 0.2565400000000039,
+          "depths": [
+            49.757,
+            0.257,
+            4.757,
+            9.257,
+            13.757,
+            18.257,
+            22.757,
+            27.257,
+            31.757,
+            36.257,
+            40.757,
+            45.257
+          ]
+        },
+        "fps": 33,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.7,
+        "storageAvailable": true
+      },
+      {
+        "wall": 11.854899999999907,
+        "settings": {
+          "mode": "gases",
+          "speed": 20,
+          "density": 40000,
+          "trail": 35,
+          "nebula": 65,
+          "quality": "auto",
+          "autopilot": false,
+          "glow": true
+        },
+        "running": true,
+        "warp": false,
+        "boost": 0,
+        "time": 14.169300000000128,
+        "starCount": 40000,
+        "farStarCount": 950,
+        "starDepth": {
+          "spawn": 28,
+          "fadeStart": 19,
+          "birthOpacity": 0
+        },
+        "gas": {
+          "count": 12,
+          "passed": 1,
+          "distance": 7.367460000000016,
+          "immersion": 0.06631745052017114,
+          "nearest": 0.13254000000000388,
+          "depths": [
+            49.633,
+            0.133,
+            4.633,
+            9.133,
+            13.633,
+            18.133,
+            22.633,
+            27.133,
+            31.633,
+            36.133,
+            40.633,
+            45.133
+          ]
+        },
+        "fps": 34,
+        "width": 1920,
+        "height": 1080,
+        "dpr": 0.65,
+        "storageAvailable": true
+      }
+    ]
+  }
+}

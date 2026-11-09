@@ -1,0 +1,59 @@
+{
+  "passed": 22,
+  "checks": [
+    "Offline load",
+    "Pause and HUD",
+    "Settings open",
+    "Density 300",
+    "Density 4000",
+    "Density 1800",
+    "Settings close",
+    "Warp acceleration",
+    "Warp deceleration",
+    "Environment galaxy",
+    "Environment classic",
+    "Environment nebula",
+    "Manual steering mode",
+    "Persistence and numeric sanitization",
+    "Reset",
+    "Enter fullscreen",
+    "Exit fullscreen",
+    "Narrow layout",
+    "Full HD resize",
+    "PNG blob and download action",
+    "No page errors",
+    "Auto-hide HUD"
+  ],
+  "state": {
+    "settings": {
+      "mode": "nebula",
+      "speed": 5,
+      "density": 1800,
+      "trail": 35,
+      "nebula": 65,
+      "quality": "auto",
+      "autopilot": true,
+      "glow": true
+    },
+    "running": true,
+    "warp": false,
+    "boost": 0,
+    "time": 19.1327079999999,
+    "starCount": 1800,
+    "farStarCount": 950,
+    "fps": 60,
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1,
+    "storageAvailable": true
+  },
+  "export": {
+    "type": "image/png",
+    "bytes": 769626,
+    "name": "Space-Starfield-98.png"
+  },
+  "uncovered": [
+    "Actual file-download completion is unverified: browser automation did not save the download to disk. PNG blob and anchor action passed.",
+    "Long-running stability, other browsers and automatic low-FPS quality reduction not tested."
+  ]
+}

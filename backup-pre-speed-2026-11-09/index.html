@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Space Starfield 98 — Deep Space</title>
+    <link rel="stylesheet" href="space.css" />
+  </head>
+  <body>
+    <canvas
+      id="space"
+      aria-label="Animovaný prelet hviezdnym poľom a galaktickými hmlovinami"
+    ></canvas>
+    <div id="hud">
+      <div class="brand">
+        SPACE STARFIELD / 98<strong>DEEP SPACE</strong>PROCEDURAL GALAXY
+        EXPLORER
+      </div>
+      <div id="telemetry">
+        <div id="modeText"></div>
+        <span id="fps">— FPS</span> · <span id="status"></span>
+      </div>
+      <div class="controls">
+        <button id="settingsButton">Nastavenia · S</button
+        ><button id="pauseButton"></button><button id="warpButton"></button
+        ><button id="fullscreenButton">Celá obrazovka · F</button>
+      </div>
+      <div id="caption">BEZ CIEĽA. LEN VESMÍR.</div>
+    </div>
+    <section id="panel" aria-label="Nastavenia preletu" hidden>
+      <div class="title">
+        ✦ Space Starfield 98 — Nastavenia
+        <button class="retro" id="close" aria-label="Zavrieť nastavenia">
+          ×
+        </button>
+      </div>
+      <label
+        ><span>Prostredie</span
+        ><select id="mode">
+          <option value="nebula">Hmlovina · filmový prelet</option>
+          <option value="galaxy">Galaxia · zlaté jadro</option>
+          <option value="classic">Klasika · Windows 98</option>
+          <option value="gases">Farebne plyny</option>
+        </select></label
+      >
+      <label
+        ><span>Rýchlosť</span
+        ><input id="speed" type="range" min="1" max="200" value="5" /><output
+          for="speed"
+        ></output
+      ></label>
+      <label
+        ><span>Hustota hviezd</span
+        ><input
+          id="density"
+          type="range"
+          min="300"
+          max="40000"
+          step="100"
+          value="1800" /><output for="density"></output
+      ></label>
+      <label
+        ><span>Dĺžka stôp</span
+        ><input id="trail" type="range" min="0" max="100" value="35" /><output
+          for="trail"
+        ></output
+      ></label>
+      <label
+        ><span>Jas hmloviny</span
+        ><input id="nebula" type="range" min="0" max="100" value="65" /><output
+          for="nebula"
+        ></output
+      ></label>
+      <label
+        ><span>Kvalita</span
+        ><select id="quality">
+          <option value="auto">Automatická</option>
+          <option value="high">Vysoká · do 2× DPI</option>
+          <option value="low">Úsporná · 1× DPI</option>
+        </select></label
+      >
+      <label class="check"
+        ><input id="autopilot" type="checkbox" checked /> Automatický let a
+        jemné zatáčanie</label
+      ><label class="check"
+        ><input id="glow" type="checkbox" checked /> Žiara jasných hviezd</label
+      >
+      <div class="actions">
+        <button class="retro" id="reset">Obnoviť</button
+        ><button class="retro" id="newSky">Nový vesmír</button
+        ><button class="retro" id="snapshot">Uložiť PNG</button>
+      </div>
+      <p class="hint">
+        S — nastavenia · P / medzerník — pauza<br />W — warp · A — autopilot · F
+        / F11 — celá obrazovka<br />1 / 2 / 3 / 4 — prostredie · Esc — zavrieť
+        panel / opustiť fullscreen<br />Pri vypnutom autopilotovi myš jemne mení
+        smer. Nastavenia sa ukladajú automaticky.
+      </p>
+    </section>
+    <div id="toast" role="status"></div>
+    <script src="depth.js"></script>
+    <script src="gases.js"></script>
+    <script src="space.js"></script>
+  </body>
+</html>

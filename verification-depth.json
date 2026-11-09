@@ -1,0 +1,17 @@
+{
+  "passed": 12,
+  "tests": [
+    "Stars spawn 5.6 times farther away than the original plane",
+    "New stars are invisible regardless of age at spawn plane",
+    "Distant fade-in is continuous and monotonic",
+    "Age fade prevents density-control pop-in",
+    "All recycled stars have zero birth opacity",
+    "Initial stars remain within the depth range in portrait and landscape",
+    "Gas attenuates rays through cloud, not empty space",
+    "Gas behind star or behind camera does not occlude it",
+    "Clouds move by exactly the travelled world distance",
+    "Clouds are recycled only behind camera and outside visible far range",
+    "Inside cloud substantially obscures stars",
+    "Reset restores the flight corridor and clears travel"
+  ]
+}

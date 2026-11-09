@@ -1,0 +1,40 @@
+{
+  "generated": "2026-11-09T17:43:40.857Z",
+  "samples": 240000,
+  "min": 0.12,
+  "p50": 1.617,
+  "p90": 9.851,
+  "p99": 34.208,
+  "max": 99.921,
+  "giant_share_r_ge_12": "6.55%",
+  "colossal_share_r_ge_40": "0.8%",
+  "max_over_median": 61.8,
+  "max_over_old_median_1_67": 59.8,
+  "giantChanceSweep": [
+    {
+      "giantChance": 0,
+      "giants_pct": 0,
+      "colossal_pct": 0,
+      "maxRadius": 12
+    },
+    {
+      "giantChance": 0.065,
+      "giants_pct": 6.72,
+      "colossal_pct": 0.83,
+      "maxRadius": 99.7
+    },
+    {
+      "giantChance": 0.15,
+      "giants_pct": 14.59,
+      "colossal_pct": 1.72,
+      "maxRadius": 100
+    },
+    {
+      "giantChance": 0.3,
+      "giants_pct": 29.79,
+      "colossal_pct": 3.57,
+      "maxRadius": 100
+    }
+  ],
+  "renderMsPerFrameAllColossal": 2.5
+}
